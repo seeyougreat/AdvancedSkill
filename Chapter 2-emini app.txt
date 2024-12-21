@@ -1,0 +1,9 @@
+Gemini app widely rolling out 2.0 Flash model switcher on Android - 9to5Google+ Community News
+
+I love Google Play Music, and I love it when you add it to your Google Play, but I have to say that I'm not the only one who feels that way.
+
+Recently, I was trying to put together a Google Play Music app as a simple, easy-to-use way to add your own music track to the main Android app. The app was called BTS and I wanted to add a little extra functionality to the music app.
+
+I spent a while just poking around in the app to find a few ideas and eventually settled on a quick, easy-to-use, and very simple idea.
+
+At first I was able to use a simple, simple, music player, but I was only able to use it with a Bluetooth keyboard and no other keys. It was a bit confusing to me. I was not sure
