@@ -1,0 +1,21 @@
+Scientists observe 'negative time' in quantum experiments - Phys.org
+
+If the results of the recent paper are confirmed, it could mean that the world is a more stable place than we thought.
+
+These results could be the beginning of a new era of quantum computing, which could revolutionise how we conduct experiments.
+
+But many scientists are sceptical, arguing that the new findings mean that the future of quantum technology is in doubt.
+
+The paper, "Quantum, Quantum, Quantum," was published in Physical Review Letters.
+
+"If the results of the study are confirmed, it could mean that the future of quantum computing is in doubt," said lead author Dr Michael Lai, from the US National Institute of Standards and Technology (NIST).
+
+"The paper further emphasizes the importance of quantum computing, and the need for a more flexible design of quantum-based devices."
+
+The theoretical models of quantum computation, which involve particles and their interactions, are currently working on their first stage.
+
+But a new study by the University of California, Berkeley physicists, led by Dr Michael Lai, of the NIST team, has suggested the system could be further advanced.
+
+Quantum is the mathematical form of computer science that was first used in the early 19th century to calculate the positions of atoms.
+
+In the early 20th century, physicists in the UK, France, Germany and the US started using it to calculate the positions of atoms, called qubits
