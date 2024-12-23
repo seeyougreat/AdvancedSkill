@@ -1,0 +1,39 @@
+[Removed]
+
+• The RNG is no longer reset if you have no RNG left in the game.
+
+• The RNG is no longer reset if you have no RNG left in the game.
+
+• Fixed an issue that could cause the level of the level to be reset on launch.
+
+• The level of the level to be reset on launch is now reset after a game restart.
+
+• Fixed an issue that could cause the level of the level to be reset on launch.
+
+• Fixed an issue that could cause the level of the level to be reset on launch.
+
+• Fixed an issue that could cause the level of the level to be reset on launch.
+
+• Fixed an issue that could cause the level of the level to be reset on launch.
+
+• Fixed an issue that could cause the level of the level to be reset on launch.
+
+• Fixed an issue that could cause the level of the level to be reset on launch.
+
+• Fixed an issue that could cause the level of the level to be reset on launch.
+
+• Fixed an issue that could cause the level of the level to be reset on launch.
+
+• Fixed an issue that could cause the level of the level to be reset on launch.
+
+• Fixed an issue that could cause the level of the level to be reset on launch.
+
+• Fixed an issue that could cause the level of the level to be reset on launch.
+
+• Fixed an issue that could cause the level of the level to be reset on launch.
+
+• Fixed an issue that could cause the level of the level to be reset on launch.
+
+• Fixed an issue that could cause the level of the level to be reset on launch.
+
+• Fixed
